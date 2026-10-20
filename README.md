@@ -1,5 +1,7 @@
 # Persian Number Input for Filament
 
+> **English** | [فارسی](README-FA.md)
+
 A Persian/Farsi number input field for Filament with RTL digit formatting, thousand separators, and stepper controls.
 
 The field displays numbers in Persian digits (`۰-۹`) while storing clean English digits in the database.
